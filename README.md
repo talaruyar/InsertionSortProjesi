@@ -7,16 +7,17 @@ Proje 1
 2- [2,6,16,22,18,27]
 3- [2,6,16,18,22,27]
 
-**2- Big-O gösterimini yazınız. **
+**2- Big-O gösterimini yazınız.**
+
 O(n^2)
 
-** 3- Time Complexity: Average case: Aradığımız sayının ortada olması,Worst case: Aradığımız sayının sonda olması, Best case: Aradığımız sayının dizinin en başında olması.**
+**3- Time Complexity: Average case: Aradığımız sayının ortada olması,Worst case: Aradığımız sayının sonda olması, Best case: Aradığımız sayının dizinin en başında olması**
 
 Avarage case : O (n^2)
 Worst case : O (n^2)
 Best case : O (n)
 
-**4-Dizi sıralandıktan sonra 18 sayısı hangi case kapsamına girer? Yazınız. **
+**4-Dizi sıralandıktan sonra 18 sayısı hangi case kapsamına girer? Yazınız.**
  18 sayısı "Avarage Case" kapsamına girer.
 
 ** [7,3,5,8,2,9,4,15,6] dizisinin Insertion Sort'a göre ilk 4 adımını yazınız.**
